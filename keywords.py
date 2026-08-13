@@ -3,5 +3,5 @@
 Imprima este valor na tela. 
 Faça um comentário ao longo do código para sinalizar que se trata do uso de uma variável do tipo bool.> '''
 
-captain = True  # A variável 'captain' é do tipo booleano e armazena o valor True
-print(captain)  # Imprime o valor da variável 'captain' na tela.
+human = True  # A variável 'human' é do tipo booleano e armazena o valor True
+print(human)  # Imprime o valor da variável 'human' na tela.
